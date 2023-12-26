@@ -1,0 +1,15 @@
+*.o
+
+*.pyc
+
+*.class
+
+*.log
+
+*.lock
+
+*.tmp
+
+*hash
+
+*hash-dbg
